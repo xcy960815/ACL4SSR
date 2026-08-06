@@ -1,0 +1,6 @@
+# Personal direct rules. Keep exact exceptions before broader proxy rules.
+DOMAIN,fuck.codexapis.com
+DOMAIN,xuchongyu.dns.army
+DOMAIN-SUFFIX,quark.cn
+DOMAIN-SUFFIX,w.alikunlun.com
+DOMAIN-SUFFIX,aliyuncs.com
