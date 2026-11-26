@@ -1,2 +1,3 @@
 # Personal proxy rules.
 DOMAIN-SUFFIX,codexapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
