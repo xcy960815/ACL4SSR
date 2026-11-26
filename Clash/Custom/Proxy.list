@@ -17,3 +17,6 @@ DOMAIN,copilot.cloud.microsoft
 
 # OpenRouter API, including regional endpoints
 DOMAIN-SUFFIX,openrouter.ai
+
+# Z.AI API
+DOMAIN,api.z.ai
